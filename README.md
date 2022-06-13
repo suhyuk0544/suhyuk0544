@@ -1,7 +1,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhyuk9350)](https://solved.ac/suhyuk9350})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhyuk0544&layout=compact&theme=dark)
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-**suhyuk0544/suhyuk0544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**suhyuk0544/suhyuk0544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
